@@ -4,7 +4,7 @@
 :css: slides.css
 :skip-help: true
 
-Introducción a
+Introducción al maravilloso
 ===============
 
 
